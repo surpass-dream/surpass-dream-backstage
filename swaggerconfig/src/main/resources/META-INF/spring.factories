@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.surpass.dream.swagger.autoconfig.SwaggerAutoConfigure
